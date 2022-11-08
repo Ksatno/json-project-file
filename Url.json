@@ -1,0 +1,666 @@
+[
+  {
+    "text": "Т 0",
+    "type": "bus"
+  },
+  {
+    "text": "Т 1",
+    "type": "bus"
+  },
+  {
+    "text": "Т 2",
+    "type": "bus"
+  },
+  {
+    "text": "Т 3",
+    "type": "bus"
+  },
+  {
+    "text": "Т 4",
+    "type": "bus"
+  },
+  {
+    "text": "А 5",
+    "type": "bus"
+  },
+  {
+    "text": "Т 6",
+    "type": "bus"
+  },
+  {
+    "text": "Т 7",
+    "type": "bus"
+  },
+  {
+    "text": "А 8",
+    "type": "bus"
+  },
+  {
+    "text": "Т 9",
+    "type": "bus"
+  },
+  {
+    "text": "Т 10",
+    "type": "bus"
+  },
+  {
+    "text": "Т 11",
+    "type": "bus"
+  },
+  {
+    "text": "Т 12",
+    "type": "bus"
+  },
+  {
+    "text": "А 13",
+    "type": "bus"
+  },
+  {
+    "text": "Т 14",
+    "type": "bus"
+  },
+  {
+    "text": "А 15",
+    "type": "bus"
+  },
+  {
+    "text": "Т 16",
+    "type": "bus"
+  },
+  {
+    "text": "А 17",
+    "type": "bus"
+  },
+  {
+    "text": "Т 18",
+    "type": "bus"
+  },
+  {
+    "text": "Т 19",
+    "type": "bus"
+  },
+  {
+    "text": "Т 20",
+    "type": "bus"
+  },
+  {
+    "text": "А 21",
+    "type": "bus"
+  },
+  {
+    "text": "А 22",
+    "type": "bus"
+  },
+  {
+    "text": "Т 23",
+    "type": "bus"
+  },
+  {
+    "text": "Т 24",
+    "type": "bus"
+  },
+  {
+    "text": "А 25",
+    "type": "bus"
+  },
+  {
+    "text": "Т 26",
+    "type": "bus"
+  },
+  {
+    "text": "Т 27",
+    "type": "bus"
+  },
+  {
+    "text": "А 28",
+    "type": "bus"
+  },
+  {
+    "text": "Т 29",
+    "type": "bus"
+  },
+  {
+    "text": "А 30",
+    "type": "bus"
+  },
+  {
+    "text": "А 31",
+    "type": "bus"
+  },
+  {
+    "text": "А 32",
+    "type": "bus"
+  },
+  {
+    "text": "Т 33",
+    "type": "bus"
+  },
+  {
+    "text": "А 34",
+    "type": "bus"
+  },
+  {
+    "text": "А 35",
+    "type": "bus"
+  },
+  {
+    "text": "Т 36",
+    "type": "bus"
+  },
+  {
+    "text": "Т 37",
+    "type": "bus"
+  },
+  {
+    "text": "Т 38",
+    "type": "bus"
+  },
+  {
+    "text": "А 39",
+    "type": "bus"
+  },
+  {
+    "text": "Т 40",
+    "type": "bus"
+  },
+  {
+    "text": "Т 41",
+    "type": "bus"
+  },
+  {
+    "text": "Т 42",
+    "type": "bus"
+  },
+  {
+    "text": "А 43",
+    "type": "bus"
+  },
+  {
+    "text": "Т 44",
+    "type": "bus"
+  },
+  {
+    "text": "Т 45",
+    "type": "bus"
+  },
+  {
+    "text": "А 46",
+    "type": "bus"
+  },
+  {
+    "text": "Т 47",
+    "type": "bus"
+  },
+  {
+    "text": "А 48",
+    "type": "bus"
+  },
+  {
+    "text": "А 49",
+    "type": "bus"
+  },
+  {
+    "text": "А 50",
+    "type": "bus"
+  },
+  {
+    "text": "Т 51",
+    "type": "bus"
+  },
+  {
+    "text": "Т 52",
+    "type": "bus"
+  },
+  {
+    "text": "Т 53",
+    "type": "bus"
+  },
+  {
+    "text": "А 54",
+    "type": "bus"
+  },
+  {
+    "text": "А 55",
+    "type": "bus"
+  },
+  {
+    "text": "Т 56",
+    "type": "bus"
+  },
+  {
+    "text": "Т 57",
+    "type": "bus"
+  },
+  {
+    "text": "А 58",
+    "type": "bus"
+  },
+  {
+    "text": "Т 59",
+    "type": "bus"
+  },
+  {
+    "text": "А 60",
+    "type": "bus"
+  },
+  {
+    "text": "Т 61",
+    "type": "bus"
+  },
+  {
+    "text": "Т 62",
+    "type": "bus"
+  },
+  {
+    "text": "Т 63",
+    "type": "bus"
+  },
+  {
+    "text": "Т 64",
+    "type": "bus"
+  },
+  {
+    "text": "А 65",
+    "type": "bus"
+  },
+  {
+    "text": "Т 66",
+    "type": "bus"
+  },
+  {
+    "text": "А 67",
+    "type": "bus"
+  },
+  {
+    "text": "Т 68",
+    "type": "bus"
+  },
+  {
+    "text": "А 69",
+    "type": "bus"
+  },
+  {
+    "text": "Т 70",
+    "type": "bus"
+  },
+  {
+    "text": "А 71",
+    "type": "bus"
+  },
+  {
+    "text": "Т 72",
+    "type": "bus"
+  },
+  {
+    "text": "А 73",
+    "type": "bus"
+  },
+  {
+    "text": "А 74",
+    "type": "bus"
+  },
+  {
+    "text": "А 75",
+    "type": "bus"
+  },
+  {
+    "text": "А 76",
+    "type": "bus"
+  },
+  {
+    "text": "Т 77",
+    "type": "bus"
+  },
+  {
+    "text": "Т 78",
+    "type": "bus"
+  },
+  {
+    "text": "Т 79",
+    "type": "bus"
+  },
+  {
+    "text": "А 80",
+    "type": "bus"
+  },
+  {
+    "text": "Т 81",
+    "type": "bus"
+  },
+  {
+    "text": "А 82",
+    "type": "bus"
+  },
+  {
+    "text": "Т 83",
+    "type": "bus"
+  },
+  {
+    "text": "Т 84",
+    "type": "bus"
+  },
+  {
+    "text": "А 85",
+    "type": "bus"
+  },
+  {
+    "text": "А 86",
+    "type": "bus"
+  },
+  {
+    "text": "А 87",
+    "type": "bus"
+  },
+  {
+    "text": "Т 88",
+    "type": "bus"
+  },
+  {
+    "text": "А 89",
+    "type": "bus"
+  },
+  {
+    "text": "А 90",
+    "type": "bus"
+  },
+  {
+    "text": "Т 91",
+    "type": "bus"
+  },
+  {
+    "text": "А 92",
+    "type": "bus"
+  },
+  {
+    "text": "Т 93",
+    "type": "bus"
+  },
+  {
+    "text": "Т 94",
+    "type": "bus"
+  },
+  {
+    "text": "А 95",
+    "type": "bus"
+  },
+  {
+    "text": "А 96",
+    "type": "bus"
+  },
+  {
+    "text": "А 97",
+    "type": "bus"
+  },
+  {
+    "text": "Т 98",
+    "type": "bus"
+  },
+  {
+    "text": "А 99",
+    "type": "bus"
+  },
+  {
+    "text": "А 100",
+    "type": "bus"
+  },
+  {
+    "text": "Т 101",
+    "type": "bus"
+  },
+  {
+    "text": "Т 102",
+    "type": "bus"
+  },
+  {
+    "text": "А 103",
+    "type": "bus"
+  },
+  {
+    "text": "А 104",
+    "type": "bus"
+  },
+  {
+    "text": "Т 105",
+    "type": "bus"
+  },
+  {
+    "text": "А 106",
+    "type": "bus"
+  },
+  {
+    "text": "А 107",
+    "type": "bus"
+  },
+  {
+    "text": "А 108",
+    "type": "bus"
+  },
+  {
+    "text": "Т 109",
+    "type": "bus"
+  },
+  {
+    "text": "А 110",
+    "type": "bus"
+  },
+  {
+    "text": "А 111",
+    "type": "bus"
+  },
+  {
+    "text": "А 112",
+    "type": "bus"
+  },
+  {
+    "text": "А 113",
+    "type": "bus"
+  },
+  {
+    "text": "Т 114",
+    "type": "bus"
+  },
+  {
+    "text": "Т 115",
+    "type": "bus"
+  },
+  {
+    "text": "Т 116",
+    "type": "bus"
+  },
+  {
+    "text": "Т 117",
+    "type": "bus"
+  },
+  {
+    "text": "А 118",
+    "type": "bus"
+  },
+  {
+    "text": "А 119",
+    "type": "bus"
+  },
+  {
+    "text": "А 120",
+    "type": "bus"
+  },
+  {
+    "text": "Т 121",
+    "type": "bus"
+  },
+  {
+    "text": "Т 122",
+    "type": "bus"
+  },
+  {
+    "text": "Т 123",
+    "type": "bus"
+  },
+  {
+    "text": "Т 124",
+    "type": "bus"
+  },
+  {
+    "text": "Т 125",
+    "type": "bus"
+  },
+  {
+    "text": "Т 126",
+    "type": "bus"
+  },
+  {
+    "text": "А 127",
+    "type": "bus"
+  },
+  {
+    "text": "Т 128",
+    "type": "bus"
+  },
+  {
+    "text": "А 129",
+    "type": "bus"
+  },
+  {
+    "text": 0,
+    "type": "tbus"
+  },
+  {
+    "text": 1,
+    "type": "tbus"
+  },
+  {
+    "text": 2,
+    "type": "tbus"
+  },
+  {
+    "text": 3,
+    "type": "tbus"
+  },
+  {
+    "text": 4,
+    "type": "tbus"
+  },
+  {
+    "text": 5,
+    "type": "tbus"
+  },
+  {
+    "text": 6,
+    "type": "tbus"
+  },
+  {
+    "text": 7,
+    "type": "tbus"
+  },
+  {
+    "text": 8,
+    "type": "tbus"
+  },
+  {
+    "text": 9,
+    "type": "tbus"
+  },
+  {
+    "text": 10,
+    "type": "tbus"
+  },
+  {
+    "text": 11,
+    "type": "tbus"
+  },
+  {
+    "text": 12,
+    "type": "tbus"
+  },
+  {
+    "text": 13,
+    "type": "tbus"
+  },
+  {
+    "text": 14,
+    "type": "tbus"
+  },
+  {
+    "text": 15,
+    "type": "tbus"
+  },
+  {
+    "text": 16,
+    "type": "tbus"
+  },
+  {
+    "text": 17,
+    "type": "tbus"
+  },
+  {
+    "text": 18,
+    "type": "tbus"
+  },
+  {
+    "text": 19,
+    "type": "tbus"
+  },
+  {
+    "text": 0,
+    "type": "tram"
+  },
+  {
+    "text": 1,
+    "type": "tram"
+  },
+  {
+    "text": 2,
+    "type": "tram"
+  },
+  {
+    "text": 3,
+    "type": "tram"
+  },
+  {
+    "text": 4,
+    "type": "tram"
+  },
+  {
+    "text": 5,
+    "type": "tram"
+  },
+  {
+    "text": 6,
+    "type": "tram"
+  },
+  {
+    "text": 7,
+    "type": "tram"
+  },
+  {
+    "text": 8,
+    "type": "tram"
+  },
+  {
+    "text": 9,
+    "type": "tram"
+  },
+  {
+    "text": 10,
+    "type": "tram"
+  },
+  {
+    "text": 11,
+    "type": "tram"
+  },
+  {
+    "text": 12,
+    "type": "tram"
+  },
+  {
+    "text": 13,
+    "type": "tram"
+  },
+  {
+    "text": 14,
+    "type": "tram"
+  },
+  {
+    "text": 15,
+    "type": "tram"
+  }
+]
